@@ -247,7 +247,7 @@ function Template({ ResumeStates }) {
             <div className="buttonclass">
                 <NavLink to="/Extra"><button className="Prev_button_resume"><IoChevronBackOutline />Back</button></NavLink>
             </div>
-            <div ref={componentRef}>
+            <div>
             {/* ... (existing JSX code) */}
             <button onClick={handleDownloadImage} className="Downloadbutton">Download as Image</button>
         </div>
