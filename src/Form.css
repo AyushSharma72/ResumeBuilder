@@ -105,37 +105,37 @@ body {
 
 .GlobeWebsite {
     position: absolute;
-    top: 45.5%;
+    top: 43.5%;
     right: 56%;
 }
 
 .Linkedin {
     position: absolute;
-    top: 59.5%;
+    top: 56.5%;
     right: 56%;
 }
 
 .instagram {
     position: absolute;
-    top: 73%;
+    top: 69%;
     right: 56%;
 }
 
 .Phone {
     position: absolute;
-    top: 32.5%;
+    top: 31%;
     right: 13.5%;
 }
 
 .Github {
     position: absolute;
-    top: 46%;
+    top: 43.5%;
     right: 13.5%;
 }
 
 .Email {
     position: absolute;
-    top: 32%;
+    top: 31%;
     right: 56%;
 }
 
@@ -150,12 +150,12 @@ body {
 
 .School{
     position: absolute;
-    top: 28%;
+    top: 27%;
     left: 30%;
 }
 .School2{
     position: absolute;
-    top: 60%;
+    top: 57%;
     left: 30%;
 }
 .Duration{
