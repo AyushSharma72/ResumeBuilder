@@ -31,12 +31,14 @@ body {
     margin-bottom: 0.1rem;
 }
 .ProfilePhoto{
+    width: 50%;
     display: flex;
     align-items:center;
     justify-content: center;
 }
 .ProfilePhoto img {
-    width:80%;
+    width:100%;
+  background-size: cover;
 
 }
 
